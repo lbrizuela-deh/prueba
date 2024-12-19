@@ -1,0 +1,228 @@
+[
+  {
+    "@timestamp": [
+      "2024-12-18T22:52:57.000Z"
+    ],
+    "appCfgVersion": [
+      "1.0.264-hotfix"
+    ],
+    "appCfgVersion.keyword": [
+      "1.0.264-hotfix"
+    ],
+    "applicationName": [
+      "mds"
+    ],
+    "applicationName.keyword": [
+      "mds"
+    ],
+    "caller.ip": [
+      "186.125.11.200"
+    ],
+    "caller.ip.keyword": [
+      "186.125.11.200"
+    ],
+    "channel": [
+      "UNK"
+    ],
+    "channel.keyword": [
+      "UNK"
+    ],
+    "ecosystem": [
+      "retail"
+    ],
+    "ecosystem.keyword": [
+      "retail"
+    ],
+    "environment": [
+      "prd"
+    ],
+    "environment.keyword": [
+      "prd"
+    ],
+    "errorCode": [
+      "001001"
+    ],
+    "errorCode.keyword": [
+      "001001"
+    ],
+    "errorMessage": [
+      "El usuario se logeo en forma exitosa."
+    ],
+    "errorMessage.keyword": [
+      "El usuario se logeo en forma exitosa."
+    ],
+    "eventTime": [
+      "2024-12-18T22:52:57.725Z"
+    ],
+    "executionTime": [
+      703
+    ],
+    "instance.ip": [
+      "192.171.25.66"
+    ],
+    "instance.ip.keyword": [
+      "192.171.25.66"
+    ],
+    "instance.name": [
+      "channel-security-authentication"
+    ],
+    "instance.name.keyword": [
+      "channel-security-authentication"
+    ],
+    "instance.version": [
+      "11.0.0"
+    ],
+    "instance.version.keyword": [
+      "11.0.0"
+    ],
+    "message": [
+      "{\"class\": \"ChannelLoginSessionInput\", \"clientCredential\": {\"class\": \"ClientCredential\", \"userName\": \"Ale500alo\", \"encodedPassword\": \"xxx\"}}"
+    ],
+    "message.keyword": [
+      "{\"class\": \"ChannelLoginSessionInput\", \"clientCredential\": {\"class\": \"ClientCredential\", \"userName\": \"Ale500alo\", \"encodedPassword\": \"xxx\"}}"
+    ],
+    "regType": [
+      "N"
+    ],
+    "regType.keyword": [
+      "N"
+    ],
+    "remoteHost": [
+      "192.171.10.1"
+    ],
+    "remoteHost.keyword": [
+      "192.171.10.1"
+    ],
+    "requestName": [
+      "login"
+    ],
+    "requestName.keyword": [
+      "login"
+    ],
+    "resultCode": [
+      "ok"
+    ],
+    "resultCode.keyword": [
+      "ok"
+    ],
+    "svcCfgVersion": [
+      "11.0.1-01-release"
+    ],
+    "svcCfgVersion.keyword": [
+      "11.0.1-01-release"
+    ],
+    "transactionId": [
+      "4fb7b84c-be74-4c9b-9f4d-907680d8221a"
+    ],
+    "transactionId.keyword": [
+      "4fb7b84c-be74-4c9b-9f4d-907680d8221a"
+    ],
+    "type": [
+      "general"
+    ],
+    "type.keyword": [
+      "general"
+    ]
+  },
+  {
+    "@timestamp": [
+      "2024-12-18T22:52:52.000Z"
+    ],
+    "applicationName": [
+      "mbr-api-gateway"
+    ],
+    "applicationName.keyword": [
+      "mbr-api-gateway"
+    ],
+    "channel": [
+      "UNK"
+    ],
+    "channel.keyword": [
+      "UNK"
+    ],
+    "ecosystem": [
+      "retail"
+    ],
+    "ecosystem.keyword": [
+      "retail"
+    ],
+    "environment": [
+      "prd"
+    ],
+    "environment.keyword": [
+      "prd"
+    ],
+    "errorCode": [
+      "200"
+    ],
+    "errorCode.keyword": [
+      "200"
+    ],
+    "eventTime": [
+      "2024-12-18T22:52:52.430Z"
+    ],
+    "executionTime": [
+      360
+    ],
+    "instance.ip": [
+      "10.42.0.29"
+    ],
+    "instance.ip.keyword": [
+      "10.42.0.29"
+    ],
+    "instance.name": [
+      "mbr-api-gateway"
+    ],
+    "instance.name.keyword": [
+      "mbr-api-gateway"
+    ],
+    "message": [
+      "{\"class\": \"GatewayRouteResult\", \"url\": \"/channel-security-authentication/2.0/smart-login\"}"
+    ],
+    "message.keyword": [
+      "{\"class\": \"GatewayRouteResult\", \"url\": \"/channel-security-authentication/2.0/smart-login\"}"
+    ],
+    "regSubType": [
+      "2"
+    ],
+    "regSubType.keyword": [
+      "2"
+    ],
+    "regType": [
+      "N"
+    ],
+    "regType.keyword": [
+      "N"
+    ],
+    "remoteHost": [
+      "10.42.0.242"
+    ],
+    "remoteHost.keyword": [
+      "10.42.0.242"
+    ],
+    "requestName": [
+      "/channel-security-authentication/2.0/smart-login"
+    ],
+    "requestName.keyword": [
+      "/channel-security-authentication/2.0/smart-login"
+    ],
+    "resultCode": [
+      "ok"
+    ],
+    "resultCode.keyword": [
+      "ok"
+    ],
+    "sessionId": [
+      "9DTI+vduIxWRlvJUiiOTPSl828tq8eXxniDWjN+kRvo="
+    ],
+    "sessionId.keyword": [
+      "9DTI+vduIxWRlvJUiiOTPSl828tq8eXxniDWjN+kRvo="
+    ],
+    "transactionId": [
+      "54e897f6-a51d-4a08-8cff-b9d748306154"
+    ],
+    "transactionId.keyword": [
+      "54e897f6-a51d-4a08-8cff-b9d748306154"
+    ]
+  }
+]
